@@ -1,5 +1,4 @@
 
-.gitattributes
 obnasanje_na_detektorju/macro_primerjavaphi.C
 popravek_pozicije_aero_gel_plosc/cherenkov_vs_phi_angle/macro_theta_vs_phi.C
 popravek_pozicije_aero_gel_plosc/cherenkov_vs_phitrk_angle/macro_theta_vs_phitrk.C
